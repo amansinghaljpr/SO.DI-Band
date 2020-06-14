@@ -59,7 +59,7 @@ void loop() {
      if(WiFi.SSID(i) == "SODI BAND")
      {
 
-      if(WiFi.RSSI(i) > -37 )
+      if(WiFi.RSSI(i) > -37 )//THIS -37 is the key this is the threshold value btw this value is set according to the distance of 1m
       {
       digitalWrite(14,HIGH);//(Generic esp8255 : (14,HIGH) , NodeMCU : (D5,HIGH) )
       Serial.println("A SODI BAND WAS FOUND");
