@@ -1,7 +1,7 @@
 # SO.DI-Band
 SODI BAND is a type of smart band that uses RF technology to detect the presence of another person near you . And helps you maintain social distancing.
 
-## **Why did i make it (THE PROBLEM) ?? **
+## Why did i make it (THE PROBLEM) ?? 
 
 Also this project is helpful for the hospitals so that they know they are on a safe distance from the patients. 
 Sometimes we are no conscious enough to maintain a social distance but this band will help you to make a safe eco-system with a socially distant environment for the employees.
