@@ -1,18 +1,20 @@
 # SO.DI-Band
-SODI BAND is a type of smart band that uses RF technology to detect the presence of another person near you . And helps you maintain social distancing.
+**SO.DI** Band is an ESP8266 based social distancing band which detects the presence of another person near you and alerts you so that even if you are not concious about your proximity to the othre person you are able to maintain safe distance .
 
 ## Why did i make it (THE PROBLEM) ?? 
-
+So the only feasible precaution for covid-19 is social distancing, but the problem is that while you're working in an office scenario or a place where staff is involved you get so busy in your work that you actually  forget to maintain safe distance.This project actually helps you to maintain safe distance from other people even when you are busy with your wor
 Also this project is helpful for the hospitals so that they know they are on a safe distance from the patients. 
-Sometimes we are no conscious enough to maintain a social distance but this band will help you to make a safe eco-system with a socially distant environment for the employees.
-Also as apple and google have joined hands together to build something knows as CONTACT TRACING DEVICE OR APP  ,  so even i wanted to try my hand at it
+
 
 ## **Solution**
 
-The simple solution was SODI BAND which is equipped with state of the art RF technology which will detect any person coming near to you wearing the same band . 
+The simple solution was an ESP8266 based SODI band which uses Wi-Fi to actually detect the presence of another band near it and if the band comes way to close it raises an alarm to the user that you are too close to someone .
 
+## **How it works**
 
-## **Features of this band:**
+In simple terms this band uses the hybrid mode of ESP8266(AT+STA) to detect the presence of another band and using a function called RSSI(Received signal strength intensity)  it detects the sensitivity and hence calculate the distance due to which they get to know that whether the other person is too close or not
+
+## **Future Possibilities**
 
 As it is WiFi capable it can also connect to the wifi router and data to a server where you can check with whom in day you came in contact with or simply put it acts as a CONTACT TRACING DEVICE 
 As portable as a watch 
