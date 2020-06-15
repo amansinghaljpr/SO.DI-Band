@@ -1,6 +1,9 @@
 # SO.DI-Band
 **SO.DI** Band is an ESP8266 based social distancing band which detects the presence of another person near you and alerts you so that even if you are not concious about your proximity to the othre person you are able to maintain safe distance .
 
+# The full project build at 
+https://www.hackster.io/amansinghaljpr/so-di-band-social-distancing-band-af8b4b
+
 ## Why did i make it (THE PROBLEM) ?? 
 So the only feasible precaution for covid-19 is social distancing, but the problem is that while you're working in an office scenario or a place where staff is involved you get so busy in your work that you actually  forget to maintain safe distance.This project actually helps you to maintain safe distance from other people even when you are busy with your wor
 Also this project is helpful for the hospitals so that they know they are on a safe distance from the patients. 
